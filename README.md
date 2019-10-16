@@ -1,4 +1,4 @@
-# Padrões de Projeto
+# Desenvolvimento Ágil | RAD
 
 ## CST em Sistemas para Internet | [Instituto Federal da Paraíba - João Pessoa](https://www.ifpb.edu.br/joaopessoa)
 
@@ -8,23 +8,25 @@
 
 ## Avaliação: Active Record
 
-##### Data da entrega: 17/10/19
+##### Data da entrega: 16/10/19
 
-1. CADASTRAR 10 NOVAS PESSOAS
+#### QUESTÕES:
 
-2. CADASTRAR UM E-MAIL PARA CADA PESSOA
+1. Cadastrar 10 novas pessoas
 
-3. ALTERAR O NOME DAS 5 PRIMEIRAS PESSOAS PARA "Fulano de tal"
+2. Cadastrar um e-mail para cada pessoa
 
-4. ALTERAR O NOME DA PESSOA QUE POSSUI O ÚLTIMO E-MAIL CADASTRADO PARA "Beltraninha de Tal"
+3. Alterar o nome das 5 primeiras pessoas para "Fulano de tal"
 
-5. CADASTRAR MAIS 20 PESSOAS
+4. Alterar o nome da pessoa que possui o último e-mail cadastrado para "Beltraninha de Tal"
 
-6. REMOVER AS 02 (DUAS) ÚLTIMAS PESSOAS CADASTRADAS
+5. Cadastrar mais 20 pessoas
+
+6. Remover as 02 (duas) últimas pessoas cadastradas
 
 7. REMOVER AS PESSOAS QUE POSSUEM ID ENTRE [12 E 16]
 
-8. REMOVER TODOS OS E-MAILS E TODAS AS PESSOAS CADASTRADAS
+8. Remover todos os e-mails e todas as pessoas cadastradas
 
-RESPOSTAS:
+#### RESPOSTAS:
 
