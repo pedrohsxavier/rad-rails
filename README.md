@@ -1,24 +1,30 @@
-# README
+# Padrões de Projeto
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## CST em Sistemas para Internet | [Instituto Federal da Paraíba - João Pessoa](https://www.ifpb.edu.br/joaopessoa)
 
-Things you may want to cover:
+### Professora: Valéria Cavalcanti (valeria.cavalcanti@ifpb.edu.br)
 
-* Ruby version
+***
 
-* System dependencies
+## Avaliação: Active Record
 
-* Configuration
+##### Data da entrega: 17/10/19
 
-* Database creation
+1. CADASTRAR 10 NOVAS PESSOAS
 
-* Database initialization
+2. CADASTRAR UM E-MAIL PARA CADA PESSOA
 
-* How to run the test suite
+3. ALTERAR O NOME DAS 5 PRIMEIRAS PESSOAS PARA "Fulano de tal"
 
-* Services (job queues, cache servers, search engines, etc.)
+4. ALTERAR O NOME DA PESSOA QUE POSSUI O ÚLTIMO E-MAIL CADASTRADO PARA "Beltraninha de Tal"
 
-* Deployment instructions
+5. CADASTRAR MAIS 20 PESSOAS
 
-* ...
+6. REMOVER AS 02 (DUAS) ÚLTIMAS PESSOAS CADASTRADAS
+
+7. REMOVER AS PESSOAS QUE POSSUEM ID ENTRE [12 E 16]
+
+8. REMOVER TODOS OS E-MAILS E TODAS AS PESSOAS CADASTRADAS
+
+RESPOSTAS:
+
