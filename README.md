@@ -27,6 +27,3 @@
 7. Remover as pessoas que possuem ID entre [12 e 16]
 
 8. Remover todos os e-mails e todas as pessoas cadastradas
-
-#### RESPOSTAS:
-
