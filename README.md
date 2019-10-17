@@ -30,4 +30,14 @@
 
 ### RESULTADOS: 
 
-![resultado1](images/Screenshot1.png)
+![resultados1](images/Screenshot1.png)
+
+![resultados2](images/Screenshot2.png)
+
+![resultados3](images/Screenshot3.png)
+
+![resultados4](images/Screenshot4.png)
+
+![resultados5](images/Screenshot5.png)
+
+![resultados6](images/Screenshot6.png)
