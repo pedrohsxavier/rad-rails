@@ -10,7 +10,7 @@
 
 ##### Data da entrega: 16/10/19
 
-#### QUESTÕES:
+### QUESTÕES:
 
 1. Cadastrar 10 novas pessoas
 
@@ -27,3 +27,17 @@
 7. Remover as pessoas que possuem ID entre [12 e 16]
 
 8. Remover todos os e-mails e todas as pessoas cadastradas
+
+### RESULTADOS: 
+
+![resultados1](images/Screenshot1.png)
+
+![resultados2](images/Screenshot2.png)
+
+![resultados3](images/Screenshot3.png)
+
+![resultados4](images/Screenshot4.png)
+
+![resultados5](images/Screenshot5.png)
+
+![resultados6](images/Screenshot6.png)
